@@ -4,6 +4,6 @@
 
 I'm a junior web dev who is extremely passionate about learning all things front end and building community!
 
-I am currently taking part of a 12 week bootcamp delivered by Academy Xi ✍🏾
+I recently graduated from a 12 week bootcamp delivered by Academy Xi ✍🏾
 
 **You can reach me** 📫 - <a href="https://www.linkedin.com/in/natasha-moon-667569149/">LinkedIn</a>
